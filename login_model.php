@@ -1,6 +1,6 @@
 <?php
 class login_model extends CI_Model {
-
+		/* Created by Tejpal*/
         public $title;
         public $content;
         public $date;
